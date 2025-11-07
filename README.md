@@ -75,3 +75,8 @@ Download chromedriver from https://chromedriver.chromium.org/downloads
 Place it in your system path or project root
 Set path if needed:
 System.setProperty("webdriver.chrome.driver", "path/to/chromedriver");
+🧑‍💻 Author
+
+Amit Nag
+📍 Bangladesh
+💼 QA engineer| QA Enthusiast | Founder of CyberPulse Innovations
